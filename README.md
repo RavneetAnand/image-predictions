@@ -71,4 +71,4 @@ On clicking the VIEW button, the following happens:
 
 ## Authors
 
-Ravneet Singh Anand - [RavneetAnand](https://github.com/RavneetAnand/columns-calculator)
+Ravneet Singh Anand - [RavneetAnand](https://github.com/RavneetAnand)
